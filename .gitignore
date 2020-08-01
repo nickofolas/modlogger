@@ -1,0 +1,5 @@
+__pycache__/
+# always annoying and should be exterminated
+
+config.py
+# don't have one yet but probably will at some point
